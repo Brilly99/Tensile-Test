@@ -90,6 +90,8 @@ Make sure you have the correct LAMMPS executable (lmp_serial, lmp_mpi, or lmp) b
 python Tensile.py
 The output plot will be saved as stress_strain_curve.png.
 
+📄 License
+MIT License.
 
 🙌 Acknowledgments
 Simulation run with LAMMPS
